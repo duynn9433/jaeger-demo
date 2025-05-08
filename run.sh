@@ -1,0 +1,1 @@
+java -jar target/jaeger-demo-0.0.1-SNAPSHOT.jar
